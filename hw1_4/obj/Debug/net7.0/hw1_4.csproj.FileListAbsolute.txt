@@ -1,0 +1,15 @@
+/Users/mariapolynceva/Documents/GB/Введение в программирование/Lec1/hw1_4/obj/Debug/net7.0/hw1_4.csproj.AssemblyReference.cache
+/Users/mariapolynceva/Documents/GB/Введение в программирование/Lec1/hw1_4/obj/Debug/net7.0/hw1_4.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mariapolynceva/Documents/GB/Введение в программирование/Lec1/hw1_4/obj/Debug/net7.0/hw1_4.AssemblyInfoInputs.cache
+/Users/mariapolynceva/Documents/GB/Введение в программирование/Lec1/hw1_4/obj/Debug/net7.0/hw1_4.AssemblyInfo.cs
+/Users/mariapolynceva/Documents/GB/Введение в программирование/Lec1/hw1_4/obj/Debug/net7.0/hw1_4.csproj.CoreCompileInputs.cache
+/Users/mariapolynceva/Documents/GB/Введение в программирование/Lec1/hw1_4/bin/Debug/net7.0/hw1_4
+/Users/mariapolynceva/Documents/GB/Введение в программирование/Lec1/hw1_4/bin/Debug/net7.0/hw1_4.deps.json
+/Users/mariapolynceva/Documents/GB/Введение в программирование/Lec1/hw1_4/bin/Debug/net7.0/hw1_4.runtimeconfig.json
+/Users/mariapolynceva/Documents/GB/Введение в программирование/Lec1/hw1_4/bin/Debug/net7.0/hw1_4.dll
+/Users/mariapolynceva/Documents/GB/Введение в программирование/Lec1/hw1_4/bin/Debug/net7.0/hw1_4.pdb
+/Users/mariapolynceva/Documents/GB/Введение в программирование/Lec1/hw1_4/obj/Debug/net7.0/hw1_4.dll
+/Users/mariapolynceva/Documents/GB/Введение в программирование/Lec1/hw1_4/obj/Debug/net7.0/refint/hw1_4.dll
+/Users/mariapolynceva/Documents/GB/Введение в программирование/Lec1/hw1_4/obj/Debug/net7.0/hw1_4.pdb
+/Users/mariapolynceva/Documents/GB/Введение в программирование/Lec1/hw1_4/obj/Debug/net7.0/hw1_4.genruntimeconfig.cache
+/Users/mariapolynceva/Documents/GB/Введение в программирование/Lec1/hw1_4/obj/Debug/net7.0/ref/hw1_4.dll
